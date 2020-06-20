@@ -6,7 +6,7 @@
 
 **Fairness Indicator**
 
-[Blog](https://ai.google/responsibilities/responsible-ai-practices/)
+[Blog](https://ai.googleblog.com/2019/12/fairness-indicators-scalable.html)
 
 [Video](https://www.youtube.com/watch?v=6CwzDoE8J4M)
 
